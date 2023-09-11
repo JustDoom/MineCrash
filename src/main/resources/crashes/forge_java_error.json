@@ -6,5 +6,5 @@
     "net.minecraftforge.server"
   ],
   "arguments": {},
-  "solution": "This is most likely an issue with your Java version, if you are on anything above Java 11 try downgrading to Java 11"
+  "solution": "This is most likely an issue with your Java version, if you are on anything above Java 9 try downgrading to Java 8"
 }
